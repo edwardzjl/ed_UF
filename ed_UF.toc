@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: ed_UF
+## Notes: simple unit frames
+## Author: Edwardlol
+## Version: 1.0
+## DefaultState:
+
+ed_UF.lua
